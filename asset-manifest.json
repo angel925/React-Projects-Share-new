@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Projects-Share-news/static/css/main.5eabac3b.chunk.css",
+    "main.js": "/React-Projects-Share-news/static/js/main.ecd8e423.chunk.js",
+    "main.js.map": "/React-Projects-Share-news/static/js/main.ecd8e423.chunk.js.map",
+    "runtime-main.js": "/React-Projects-Share-news/static/js/runtime-main.8f13085d.js",
+    "runtime-main.js.map": "/React-Projects-Share-news/static/js/runtime-main.8f13085d.js.map",
+    "static/js/2.77126535.chunk.js": "/React-Projects-Share-news/static/js/2.77126535.chunk.js",
+    "static/js/2.77126535.chunk.js.map": "/React-Projects-Share-news/static/js/2.77126535.chunk.js.map",
+    "static/js/3.ae609476.chunk.js": "/React-Projects-Share-news/static/js/3.ae609476.chunk.js",
+    "static/js/3.ae609476.chunk.js.map": "/React-Projects-Share-news/static/js/3.ae609476.chunk.js.map",
+    "index.html": "/React-Projects-Share-news/index.html",
+    "static/css/main.5eabac3b.chunk.css.map": "/React-Projects-Share-news/static/css/main.5eabac3b.chunk.css.map",
+    "static/js/2.77126535.chunk.js.LICENSE.txt": "/React-Projects-Share-news/static/js/2.77126535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f13085d.js",
+    "static/js/2.77126535.chunk.js",
+    "static/css/main.5eabac3b.chunk.css",
+    "static/js/main.ecd8e423.chunk.js"
+  ]
+}
